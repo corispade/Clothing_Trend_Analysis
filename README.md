@@ -3,6 +3,7 @@
 ### Step 1 - Web Scraping 
 * Using the Poshmark website to scrape information on sold women's clothing
     - Struggled scraping, found helpful youtube tutorial from Ty Shaikh on how to scrape basic information. Followed along for practice scraping. 
+    - https://www.youtube.com/watch?v=0L1uM_18TTA
     - Would like to continue to build from this by clicking into the image links and also creating a browser instance to scroll the pages further.
 * Scrape using BeautifulSoup and Splinter
 * Gather information on category, brand, size, price, date (need to find this), description, whether new with tags or not, number of likes
