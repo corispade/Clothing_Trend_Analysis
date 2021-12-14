@@ -9,9 +9,13 @@
 * Gather information on category, brand, size, price, date (need to find this), description, whether new with tags or not, number of likes
 * Build a dataframe
 
-Helpful websites: 
-https://medium.com/@tyshaikh/poshmark-reminders-with-python-part-1-f75006d49a41
-https://www.reddit.com/r/poshmark/comments/bmxob6/i_have_monitored_poshmark_sales_for_one_month_and/
+Tools: Jupyter Notebook
+
+Libraries: 
+
+Additional Websites: 
+* https://medium.com/@tyshaikh/poshmark-reminders-with-python-part-1-f75006d49a41
+* https://www.reddit.com/r/poshmark/comments/bmxob6/i_have_monitored_poshmark_sales_for_one_month_and/
 
 ### Step 2 - Clean Data
 * Clean the dataframe built from Poshmark sales
